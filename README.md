@@ -1,5 +1,7 @@
 # Calculator Project
 
+##Demo https://itachi1503.github.io/Calculator/
+
 ## Overview
 
 Welcome to the Calculator project! This project is a basic calculator application built using HTML, CSS, and JavaScript. The calculator provides an interactive interface for performing basic mathematical operations such as addition, subtraction, multiplication, and division.
